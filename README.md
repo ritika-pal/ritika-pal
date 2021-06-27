@@ -8,7 +8,7 @@
 <li> 😄 Pronouns: She/Her</li>
 <li> ⚡ Fun Fact: I love Sketching</li>
 </ul>
-![Github stats](https://github-readme-stats.vercel.app/api?username=ritika-pal&theme=highcontrast&show_icons=true&count_private=true)
+<p><img src="![Github stats](https://github-readme-stats.vercel.app/api?username=ritika-pal&theme=highcontrast&show_icons=true&count_private=true)"</p>
 
 <!---
 ritika-pal/ritika-pal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
