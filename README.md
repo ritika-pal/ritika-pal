@@ -10,7 +10,7 @@
 </ul>
 <p>
   <a href="![Github stats](https://github-readme-stats.vercel.app/api?username=ritika-pal&theme=highcontrast&show_icons=true&count_private=true)"><img src="![Github stats](https://github-readme-stats.vercel.app/api?username=ritika-pal&theme=highcontrast&show_icons=true&count_private=true)" alt'"Github Stats" data-canonical-src="![Github stats](https://github-readme-stats.vercel.app/api?username=ritika-pal"
-    </a>
+  ></a>
 </p>
 
 <!---
